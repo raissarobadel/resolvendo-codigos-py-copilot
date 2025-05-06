@@ -1,6 +1,6 @@
 # Resolvendo Códigos em Python com o Github Copilot
 
-Este é um repositório destinado à realização do segundo desafio de projeto do curso "[Formação GitHub Certification](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)", promovido pela professora [Aline Antunes](https://github.com/alinealien). O objetivo do desafio é a realização de pequenos códigos em Python, além da criação de um desafio extra de inspiração própria do aluno,  centralizando especificamente o objetivo principal, que consiste na utilização do GitHub Codespaces como ambiente de desenvolvimento, e o GitHub Copilot para fins educacionais. 
+Este é um repositório destinado à realização do segundo desafio de projeto do curso "[Formação GitHub Certification](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)", promovido pela professora [Aline Antunes](https://github.com/alinealien), na plataforma DIO. O objetivo do desafio é a realização de pequenos códigos em Python, além da criação de um desafio extra de inspiração própria do aluno,  centralizando especificamente o objetivo principal, que consiste na utilização do GitHub Codespaces como ambiente de desenvolvimento, e o GitHub Copilot para fins educacionais. 
 
 <p align = "center">
 <img src = "image-2.png" alt = "Imagem">
