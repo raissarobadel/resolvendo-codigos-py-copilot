@@ -1,11 +1,10 @@
 # Resolvendo Códigos em Python com o Github Copilot
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Este é um repositório destinado à realização do segundo desafio de projeto do curso "[Formação GitHub Certification](https://web.dio.me/track/b9eb6374-fbd0-4a21-8747-9f25e8371f03)", promovido pela professora [Aline Antunes](https://github.com/alinealien). O objetivo do desafio é a realização de pequenos códigos em Python, além da criação de um desafio extra de inspiração própria do aluno,  centralizando especificamente o objetivo principal, que consiste na utilização do GitHub Codespaces como ambiente de desenvolvimento, e o GitHub Copilot para fins educacionais. 
 
-### Atenção ⚠️ 
-
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+<p align = "center">
+<img src = "image-2.png" alt = "Imagem">
+</p>
 
 ## 1 - Concatenando Dados 🐾
 
@@ -83,3 +82,26 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+<br>
+
+## 7 - Desafio Extra, por [Raíssa Robadel](https://github.com/raissarobadel) ✨🧁
+
+Descrição: Aqui você vai aprender a fazer uma deliciosa palha italiana de casadinho, através de uma receita interativa, que verifica ingregientes e aguarda o passo a passo, acompanhando simultaneamente com você! 
+Uma dica é: Simule a realização da receita tanto na visão hipotética de ter todos os ingredientes, quanto de haver ingredientes ainda faltantes.
+
+O que aprenderemos?
+* Manipulação de strings em Python.
+* Utilização de laços de repetição.
+* Aplicação de condicionais.
+* Interpolação de strings (f-string)
+* Variáveis booleanas, funções, operadores, caracteres de escape, e muito mais!
+* Plus: Um docinho delicioso para comer de sobremesa 😋.
+
+<br>
+
+## Tecnologias Utilizadas no Projeto:
+
+<p align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60px"/>
+</p>
